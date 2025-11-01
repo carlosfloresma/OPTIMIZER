@@ -33,7 +33,7 @@ Vacía papelera de reciclaje
 
 # Sistemas compatibles:
 
-Windows 10
+Windows 10 y 
 Windows 11
 
 
