@@ -17,13 +17,13 @@ No cierres la ventana de cmd y let him cook.
 
 Hace en solo 2 clics y un par de minutos lo que haría una persona en alrededor de 15 a 30 minutos con los conocimientos adecuados:
 
-Modifica la configuración de apariencia y rendimiento y desactiva las opciones innecesarias.
+Modifica la configuración de apariencia y rendimiento y desactiva las opciones graficas innecesarias que realentizan tu computadora .
 
-Modifica la configuración de sonidos del sistema desactivándolos para un mejor rendimiento.
+Modifica la configuración de sonidos innecesarios del sistema desactivándolos para un mejor rendimiento.
 
 Elimina secciones de noticias innecesarias de windows 10.
 
-Borra archivos temporales en directorios diferentes.
+Borra los archivos temporales innecesarios en directorios diferentes.
 
 Configura el plan de energía para funcionar en el máximo rendimiento.
 
