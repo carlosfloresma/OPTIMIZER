@@ -31,5 +31,9 @@ Optimiza configuración de red.
 
 Vacía papelera de reciclaje 
 
+# Sistemas compatibles:
+
+Windows 10
+Windows 11
 
 
