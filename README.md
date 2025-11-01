@@ -1,11 +1,12 @@
 # OPTIMIZER
 OPTIMIZADOR SEGURO Y ESTABLE OPEN SOURCE PARA TU COMPUTADORA LENTA
 
-How-to-use:
+Instrucciones:
+Descarga el archivo Optimizer.bat
+Dale click derecho y en ejecutar como administrador para que empiece la magia
+No cierres la ventana de cmd y let him cook
 
-Solo dale click derecho y en ejecutar como administrador para que empiece la magia
-
-¿Que hace mi código?
+¿Que hace mi script?
 
 Hace en solo 2 clics y un par de minutos lo que tardaría una persona en alrededor de 15 a 30 minutos:
 
@@ -16,6 +17,8 @@ Borra archivos temporales en directorios diferentes.
 Configura el plan de energía para funcionar en el máximo rendimiento.
 Elimina cache de navegadores.
 Optimiza SSD.
+Optimiza configuración de red.
+Vacía papelera de reciclaje 
 
 
 
