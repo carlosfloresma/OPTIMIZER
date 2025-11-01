@@ -1,7 +1,7 @@
 # OPTIMIZER
 OPTIMIZADOR SEGURO Y ESTABLE OPEN SOURCE PARA TU COMPUTADORA LENTA
 
-Instrucciones:
+INSTRUCCIONES:
 
 Descarga el archivo Optimizer.bat en el botón verde que dice "code" y luego en "download zip"
 
@@ -9,7 +9,7 @@ Dale click derecho y en ejecutar como administrador para que empiece la magia
 
 No cierres la ventana de cmd y let him cook
 
-¿Que hace mi script?
+¿QUÉ HACE MI SCRIPT?
 
 Hace en solo 2 clics y un par de minutos lo que tardaría una persona en alrededor de 15 a 30 minutos:
 
