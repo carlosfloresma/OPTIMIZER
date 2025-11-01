@@ -3,7 +3,7 @@ OPTIMIZADOR SEGURO Y ESTABLE OPEN SOURCE PARA TU COMPUTADORA LENTA
 
 Instrucciones:
 
-Descarga el archivo Optimizer.bat en el botón verde que dice "code"
+Descarga el archivo Optimizer.bat en el botón verde que dice "code" y luego en "download zip"
 
 Dale click derecho y en ejecutar como administrador para que empiece la magia
 
