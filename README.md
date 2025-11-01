@@ -5,6 +5,10 @@
 
 Descarga el archivo Optimizer.bat en el botón verde que dice "code" y luego en "download zip".
 
+Descomprime el archivo .zip
+
+Selecciona el archivo Optimizer.bat
+
 Dale click derecho y en ejecutar como administrador para que empiece la magia.
 
 No cierres la ventana de cmd y let him cook.
