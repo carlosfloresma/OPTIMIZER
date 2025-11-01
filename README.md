@@ -11,7 +11,7 @@ No cierres la ventana de cmd y let him cook.
 
 # ¿QUÉ HACE MI SCRIPT?
 
-Hace en solo 2 clics y un par de minutos lo que tardaría una persona en alrededor de 15 a 30 minutos con los conocimientos adecuados:
+Hace en solo 2 clics y un par de minutos lo que haría una persona en alrededor de 15 a 30 minutos con los conocimientos adecuados:
 
 Modifica la configuración de apariencia y rendimiento y desactiva las opciones innecesarias.
 
